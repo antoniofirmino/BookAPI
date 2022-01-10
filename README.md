@@ -1,1 +1,1 @@
-tentativa falha da book api
+Simples API feita em C# com Swagger UI
