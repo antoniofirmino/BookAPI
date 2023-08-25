@@ -1,1 +1,1 @@
-Simples API feita em C# com Swagger UI
+Simples API feita em C# com SwaggerUI
